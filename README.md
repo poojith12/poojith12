@@ -1,5 +1,5 @@
 
-👋 Hi, I’m @poojith12
+👋 Hi, I’m poojith
 
 <br />I am an AI enthusiast constantly exploring and learning new things. I have experience in python, java, html, css & javascript. <br /> Currently working as software developer in AI - Built Android apps and Standalone Applications.
 
